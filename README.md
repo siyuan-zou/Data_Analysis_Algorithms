@@ -33,4 +33,4 @@ This repository contains the code and solutions for the **TD Assignments** in th
 
 ---
 
-Each TD assignment is designed to provide hands-on experience with the core techniques and algorithms used in data science. Follow the links to explore the solutions and explanations for each topic. The test exam and its solutions are also included to help you review and prepare for assessments.
+Each TD assignment is designed to provide hands-on experience with the core techniques and algorithms used in data science.
