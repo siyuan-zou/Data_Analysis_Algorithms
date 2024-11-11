@@ -1,6 +1,6 @@
 # Data Analysis Algorithms - TD Assignments
 
-This repository contains the code and solutions for the **TD Assignments** in the **Data Analysis Algorithms** course. Each TD focuses on practical implementations of key concepts in data science and C++ programming, reinforcing the material covered in lectures. Below is an overview of the weekly TD assignments and corresponding links.
+This repository contains the code and solutions for the **TD Assignments** in the **INF442 - Data Analysis Algorithms in C++** course at École Polytechnique. Each TD focuses on practical implementations of key concepts in data science and C++ programming, reinforcing the material covered in lectures. Below is an overview of the weekly TD assignments and corresponding links.
 
 ## TD Assignments Overview
 
